@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyRoomDBApplication</string>
+    <string name="subscriber_s_email">Subscriber\'s email</string>
+    <string name="subscriber_s_name">Subscriber\'s Name</string>
+    <string name="save">SAVE</string>
+    <string name="clear_all">CLEAR ALL</string>
+    <string name="author_name">Author Name</string>
+    <string name="book_name">Book Name</string>
+</resources>
